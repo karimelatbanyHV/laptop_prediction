@@ -24,4 +24,4 @@ The dataset was collected from various online retailers and has been preprocesse
 The best model achieved an R-squared value of 0.89 on the test set, indicating a strong correlation between the predicted and actual prices.
 
 ## Contact
-For any questions or feedback, please contact [Karim ElAtbany](karimnabel99@gmail.com).
+For any questions or feedback, please contact [Karim ElAtbany](mailto:karimnabel99@gmail.com).
